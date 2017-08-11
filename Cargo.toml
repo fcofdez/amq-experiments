@@ -1,0 +1,8 @@
+[package]
+name = "amq-exp"
+version = "0.1.0"
+authors = ["Francisco Fernandez <francisco.fernandez.castano@gmail.com>"]
+
+[dependencies]
+fasthash = "0.2"
+bit-vec = "~0.4"
